@@ -39,6 +39,6 @@ The dashboard provides a clear view of key metrics and highlights critical perio
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](subscript db.JPG)
+(subscript.JPG)
 
  
